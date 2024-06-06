@@ -2,10 +2,6 @@
 
 ## PART 1
 
-bug- sympotm and ss
-response - hwo to fix
-result after fixing.
-
 BUG:
 
 getting an error when using a bash file to run tests for a java file.
