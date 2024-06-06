@@ -16,6 +16,36 @@ response:
 
 u should go over the java file and find the bug there. the test file is correct. try looking at the merge function.
 
+reply from student:
+i found the bug! both my tests are passing now
+
+
+
+file directory structre-
+![IMAGE]()
+
+contents of test.sh file-
+![IMAGE]()
+
+contents of java file-
+![IMAGE]()
+
+contents of test java file-
+![IMAGE]()
+
+commands used in terminal-
+![IMAGE]()
+
+file before fixing bug-
+![IMAGE]()
+
+file after fixing bug-
+![IMAGE]()
+
+
+
+
+
 ![IMAGE](BF4ACC84-DD13-4D0D-9A91-36887690DC5C.jpeg)
 ![IMAGE]()
 
