@@ -11,24 +11,21 @@ BUG:
 getting an error when using a bash file to run tests for a java file.
 error shows that a test failed. unsure if there an issue with the java file or the test file.
 the test file and java file attached below
-
+![IMAGE]()
 response:
 
 u should go over the java file and find the bug there. the test file is correct. try looking at the merge function.
 
 reply from student:
 i found the bug! both my tests are passing now
-
+![IMAGE]()
 
 
 file directory structre-
-![IMAGE]()
+![IMAGE](660D38F3-06D8-41DC-ADD1-0A5D4E6D10D9.jpeg)
 
 contents of test.sh file-
 ![IMAGE](5C9BE2A9-86B1-46E9-819A-2743BECB4355.jpeg)
-
-contents of java file-
-![IMAGE]()
 
 contents of test java file-
 ![IMAGE](5A674DCA-F6AE-4632-AF30-A9B022C4BC73.jpeg)
@@ -36,10 +33,10 @@ contents of test java file-
 commands used in terminal-
 ![IMAGE]()
 
-file before fixing bug-
+java file before fixing bug-
 ![IMAGE](BF4ACC84-DD13-4D0D-9A91-36887690DC5C.jpeg)
 
-file after fixing bug-
+java file after fixing bug-
 ![IMAGE](5F26F039-747B-4695-968A-94D08C76DC3B.jpeg)
 
 
