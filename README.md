@@ -37,16 +37,16 @@ commands used in terminal-
 ![IMAGE]()
 
 file before fixing bug-
-![IMAGE]()
+![IMAGE](BF4ACC84-DD13-4D0D-9A91-36887690DC5C.jpeg)
 
 file after fixing bug-
-![IMAGE]()
+![IMAGE](5F26F039-747B-4695-968A-94D08C76DC3B.jpeg)
 
 
 
 
 
-![IMAGE](BF4ACC84-DD13-4D0D-9A91-36887690DC5C.jpeg)
+
 ![IMAGE]()
 
 
