@@ -11,7 +11,9 @@ BUG:
 getting an error when using a bash file to run tests for a java file.
 error shows that a test failed. unsure if there an issue with the java file or the test file.
 the test file and java file attached below
-![IMAGE]()
+![IMAGE](5BD59100-037D-4218-AB72-182A57DD3C55.jpeg)
+
+
 response:
 
 u should go over the java file and find the bug there. the test file is correct. try looking at the merge function.
@@ -31,7 +33,7 @@ contents of test java file-
 ![IMAGE](5A674DCA-F6AE-4632-AF30-A9B022C4BC73.jpeg)
 
 commands used in terminal-
-![IMAGE]()
+bash test.sh to run the bash file which contained the commands to compile both files and run the test file.
 
 java file before fixing bug-
 ![IMAGE](BF4ACC84-DD13-4D0D-9A91-36887690DC5C.jpeg)
@@ -40,11 +42,6 @@ java file after fixing bug-
 ![IMAGE](5F26F039-747B-4695-968A-94D08C76DC3B.jpeg)
 
 
-
-
-
-
-![IMAGE]()
 
 
 
