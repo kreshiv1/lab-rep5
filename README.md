@@ -2,7 +2,7 @@
 
 ## PART 1
 
-BUG:
+BUG QUESTIOON ASKED BY STUDENT: <br>
 
 getting an error when using a bash file to run tests for a java file.
 error shows that a test failed. unsure if there an issue with the java file or the test file.
@@ -10,31 +10,31 @@ the test file and java file attached below
 ![IMAGE](5BD59100-037D-4218-AB72-182A57DD3C55.jpeg)
 
 
-response:
+RESPONSE FROM TA: <br>
 
 u should go over the java file and find the bug there. the test file is correct. try looking at the merge function.
 
-reply from student:
-i found the bug! both my tests are passing now
+REPLY FROM STUDENT: <br> 
+i found the bug! both my tests are passing now 
 ![IMAGE](79708657-99AF-4717-82C1-6889386418B4_4_5005_c.jpeg)
 
 
-file directory structre-
+file directory structre- <br>  
 ![IMAGE](660D38F3-06D8-41DC-ADD1-0A5D4E6D10D9.jpeg)
 
-contents of test.sh file-
+contents of test.sh file- <br>
 ![IMAGE](5C9BE2A9-86B1-46E9-819A-2743BECB4355.jpeg)
 
-contents of test java file-
+contents of test java file- <br>
 ![IMAGE](5A674DCA-F6AE-4632-AF30-A9B022C4BC73.jpeg)
 
-commands used in terminal-
+commands used in terminal- <br> 
 bash test.sh to run the bash file which contained the commands to compile both files and run the test file.
 
-java file before fixing bug-
+java file before fixing bug- <br>
 ![IMAGE](BF4ACC84-DD13-4D0D-9A91-36887690DC5C.jpeg)
 
-java file after fixing bug-
+java file after fixing bug- <br>
 ![IMAGE](5F26F039-747B-4695-968A-94D08C76DC3B.jpeg)
 
 
