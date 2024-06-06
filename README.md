@@ -18,7 +18,7 @@ u should go over the java file and find the bug there. the test file is correct.
 
 reply from student:
 i found the bug! both my tests are passing now
-![IMAGE]()
+![IMAGE](79708657-99AF-4717-82C1-6889386418B4_4_5005_c.jpeg)
 
 
 file directory structre-
